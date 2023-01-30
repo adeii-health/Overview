@@ -37,7 +37,7 @@ As the founders of a mental health platform, we are dedicated to the proposition
 We are a multidisciplinary team that either currently works in mental health care, conducts research in the problem areas, or works directly with peer-specialist populations. We know how to fill the gaps in the mental health workforce and how to facilitate unique partnerships using ready-built networks to give communities specific quality care that listens and speaks to everyone's lived experience.
 
 ## Getting in Touch
-There is no right or wrong way to get in touch with us. A [cold e-mail](mailto:nzoffel@abdg.io) or [a Twitter DM](http://www.twitter/com/niczoffel) to set-up a virtual or face-to-face conversation.
+There is no right or wrong way to get in touch with us; [cold e-mail](mailto:nzoffel@abdg.io) or [a Twitter DM](http://www.twitter/com/niczoffel) to set-up a virtual or face-to-face conversation.
 
 ## How We Think
 Despite the wide volume of new mental health apps and services, much has remained the same in how care is accessed or provided. Currently, most innovations to the mental health marketplace have come in the form of apps and services that make claims of 24/7 access and affordability. However, when you use the apps or services, it becomes clear that the market is recreating old models with a new veneer, and all share common features that triage not address the problem.
