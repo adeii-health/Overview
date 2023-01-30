@@ -1,4 +1,4 @@
-# A Better Day Groups Operating Manual for Transparency
+# ABDG's Operating Manual
 Welcome! We were inspired by a few VCs where they provided an operating manual to provide people all the information you could possibly want to know about ABDG; and we will continually update it to fill in holes that are discovered.
 
 This manual was inspired by a commitment to radical transparency which we learned from Starting Line Investments, who was inspired by Bloomberg Beta.
