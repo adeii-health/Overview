@@ -1,7 +1,7 @@
-# ABDG's Operating Manual
-Welcome! We were inspired by a few VCs where they provided an operating manual to provide people all the information you could possibly want to know about ABDG; and we will continually update it to fill in holes that are discovered.
+# ADEii Health's Operating Manual
+Welcome! We were inspired by a few VCs where they provided an operating manual to provide people all the information you could possibly want to know about ADEii; and we will continually update it to fill in holes that are discovered.
 
-This manual was inspired by a commitment to radical transparency which we learned from Starting Line Investments, who was inspired by Bloomberg Beta.
+This manual was inspired by a commitment to radical transparency, which we learned from Starting Line Investments, which was inspired by Bloomberg Beta.
 
 <u>Table of Contents</u>
 * [What We Do](#what-we-do)
@@ -11,19 +11,19 @@ This manual was inspired by a commitment to radical transparency which we learne
 * [How We Think](#how-we-think)
 
 ## What We Do 
-A Better Day Groups is evolving the mental health ecosystem with a platform that fuses immediacy care with training, licensing, and certification to expand the workforce while providing communities with Urgent Mental Health Care.
+ADEii Health is evolving the mental health ecosystem with a platform that fuses immediacy care with training, licensing, and certification to expand the workforce while providing communities with Urgent Mental Health Care.
 
 The decline of mental health is accelerating, and there are not enough practitioners to service the problem or the broader healthcare system.
 
-ABDG's comprehensive pipeline provides access to dedicated 24/7 on-demand services and peer-specialist groups. Beyond providing person-to-person support, we've developed a software platform that improves the quality of intake & assessment information to accurately assess a person's need and properly direct them to the right type of support. 
+ADEii Health's comprehensive pipeline provides access to dedicated 24/7 on-demand services and peer-specialist groups. Beyond providing person-to-person support, we've developed a software platform that improves the quality of intake & assessment information to accurately assess a person's need and properly direct them to the right type of support. 
 
 
 ## Where We Need Support
-We are looking for venture capital partners to anchor our seed round with check sizes ranging from $250,000 - $3,000,000. Our sweet spot would be investor(s) within that range to support, leading with $1-1.25M into a $3M seed round. 
+We are looking for venture capital partners to anchor our seed round with check sizes ranging from $500,000 - $3,000,000. Our sweet spot would be investor(s) within that range to support. 
 
 We have built everything thus far, boot-strapped and through MOUs. 
 
-With direct funding we'll be able to do 6 critical things over the next 12-months:
+With direct funding, we'll be able to do 6 critical things over the next 12-months:
 1. Key hires, we have had preliminary conversations with 10 people (including founders) who consist of the GTM team.
 2. Securing specialized TRMS insurance, contract has been negotiated, and funds will be used to activate.
 3. Securing business insurance, contract has been negotiated, and funds will be used to activate.
